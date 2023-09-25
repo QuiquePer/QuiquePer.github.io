@@ -1,0 +1,41 @@
+td {
+    color: white !important;
+}
+
+th{
+    text-align: center !important;
+}
+
+td:hover{
+    scale: 1.3;
+    transition: 0.2;
+    border-radius: 2px;
+    border: #888 1px solid;
+}
+
+.dwes {
+    background-color: burlywood !important;
+}
+
+.dwec {
+    background-color:cornflowerblue !important;
+}
+.daw {
+    background-color:darkorange !important;
+}
+.diw {
+    background-color:blueviolet !important;
+}
+.eie {
+    background-color:crimson !important;
+}
+.tut {
+    background-color:darkseagreen !important;
+}
+
+.ang{
+    background-color: hotpink !important;
+}
+.recess{
+    background-color: darkolivegreen !important;
+}
